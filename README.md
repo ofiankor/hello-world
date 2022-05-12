@@ -1,2 +1,3 @@
 # hello-world
-my very first repo
+i am a great man 
+i am strong
